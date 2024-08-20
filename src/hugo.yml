@@ -1,0 +1,41 @@
+baseURL: https://docs.spreaview.com/
+title: SpreaView Documentation
+enableRobotsTXT: true
+theme: [docsy]
+contentDir: content
+
+taxonomies:
+  tag: tags
+  category: categories
+
+# Highlighting config
+pygmentsCodeFences: true
+pygmentsUseClasses: false
+# Use the new Chroma Go highlighter in Hugo.
+pygmentsUseClassic: false
+# pygmentsOptions: "linenos=table"
+# See https://help.farbox.com/pygments.html
+pygmentsStyle: tango
+
+# Image processing configuration.
+imaging:
+  resampleFilter: CatmullRom
+  quality: 75
+  anchor: smart
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
+    style: tango
+    # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+    # guessSyntax: true
+
+# Comment out if you don't want the "print entire section" link enabled.
+outputs:
+  section: [HTML, print, RSS]
