@@ -1,7 +1,7 @@
 ---
 title: "Reviews"
 linkTitle: "Reviews"
-weight: 4
+weight: 6
 categories: [Reviews, Getting Started]
 tags: [docs]
 description: Collecting review information
