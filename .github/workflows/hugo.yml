@@ -64,9 +64,10 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo --minify
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Publish Artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: documentation
           path: ./src/public
 
   # Deployment job
