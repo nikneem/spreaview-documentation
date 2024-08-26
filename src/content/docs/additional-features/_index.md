@@ -3,7 +3,7 @@ title: Additional features
 description: Things that make SpreaView stand out
 categories: [Features]
 tags: [docs]
-weight: 2
+weight: 30
 ---
 
 # SpreaView Special Features
