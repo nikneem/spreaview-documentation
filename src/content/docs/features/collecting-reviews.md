@@ -21,6 +21,12 @@ https://spreaview.com/review/{session_code}
 
 Where `{session_code}` is a unique identifier for the session.
 
+### Download Event QR codes
+
+![Download session QR Codes](/images/spreaview-events-details-download-qr.jpg)
+
+To download a ZIP file, with the QR codes of all sessions, you simply open the details of your event. On the toolbar, the button `Download QRs` enables. Click it and wait for the ZIP file to be generated (this may take a couple of seconds). Your browser will automatically download the ZIP file once generated.
+
 ### QR Code for Easy Access
 
 To make it easier for attendees to access the review page, SpreaView generates a QR code for every session. This QR code links directly to the session's review URL and can be easily shared with attendees.
