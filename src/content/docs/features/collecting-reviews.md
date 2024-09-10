@@ -1,7 +1,7 @@
 ---
 title: "Collecting Reviews"
 linkTitle: "Collecting Reviews"
-weight: 2
+weight: 3
 categories: [Features, Productivity, Reviews]
 tags: [docs]
 description: Collecting reviews, the essential need of SpreaView

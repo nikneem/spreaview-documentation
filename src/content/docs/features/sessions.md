@@ -1,7 +1,7 @@
 ---
 title: "Session Management"
 linkTitle: "Session Management"
-weight: 1
+weight: 2
 categories: [Features, Productivity, Sessions]
 tags: [docs]
 description: Managing sessions and understanding what you can control
