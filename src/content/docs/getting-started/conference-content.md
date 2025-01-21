@@ -11,6 +11,8 @@ description: Adding a meaning to your conferences
 
 The **Conference Content** section in SpreaView enables organizers to manage the essential elements of a conference, including speakers, tracks, and presentations. This functionality provides flexibility while ensuring data consistency.
 
+> **Tip** read on to the end of the page and learn how to synchronize your conference content with Sessionize.
+
 ## Managing Speakers
 
 Organizers can add and edit speakers for the conference.
@@ -47,6 +49,12 @@ Presentations are the core components of a conference, linking speakers and trac
   - A track.
   - Start time and duration.
 - **Editing Presentations**: Details of existing presentations can be modified.
+
+## Synchronizing content with Sessionize
+
+Sessionize is a platform that allows conference organizers to select speakers and set up a schedule for their conference. SpreaView seamlessly integrates with Sessionize and allows you to synchonize your SpreaView conference data with Sessionize. It is important to understand that when setting up this synchronization, Sessionize is leading and SpreaView only downloads information from Sessionize. [On this page](/docs/integrations/sessionize/) you can learn how to set up Sessionize to allow the synchronization. This leaves you with a Session API Id. Enter this ID on the details page of your SpreaView conference to enable the Syncronize button. Click this button to synchronize the session data with Sessionize's data.
+
+> When importing data from Sessionize, the default presentation time is not respected. The full date and time schedule as imported from Sessionize is used instead.
 
 ## Summary
 
