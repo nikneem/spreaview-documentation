@@ -1,6 +1,6 @@
 ---
-title: "Content"
-linkTitle: "Conferences"
+title: "Conference Content"
+linkTitle: "Content"
 weight: 4
 categories: [Conferences, Content, Getting Started]
 tags: [docs]
