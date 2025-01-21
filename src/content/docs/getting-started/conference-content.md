@@ -52,9 +52,13 @@ Presentations are the core components of a conference, linking speakers and trac
 
 ## Synchronizing content with Sessionize
 
+![Synchronize from Sessionize](/images/spreaview-conferences-details-sessionize.png)
+
 Sessionize is a platform that allows conference organizers to select speakers and set up a schedule for their conference. SpreaView seamlessly integrates with Sessionize and allows you to synchonize your SpreaView conference data with Sessionize. It is important to understand that when setting up this synchronization, Sessionize is leading and SpreaView only downloads information from Sessionize. [On this page](/docs/integrations/sessionize/) you can learn how to set up Sessionize to allow the synchronization. This leaves you with a Session API Id. Enter this ID on the details page of your SpreaView conference to enable the Syncronize button. Click this button to synchronize the session data with Sessionize's data.
 
 > When importing data from Sessionize, the default presentation time is not respected. The full date and time schedule as imported from Sessionize is used instead.
+
+Note that when the Sessionize API Id is populated, also a short email template will be shown at the bottom of the screen. The email template text can be used when you communicate with your speakers from Sessionize. By default, **SpreaView does not keep speaker email addresses** so SpreaView cannot send emails to your speakers. Sessionize can, and by using the adjustable template as shown, you create a seamless experience for your speakers.
 
 ## Summary
 
