@@ -9,10 +9,12 @@ description: Join an organization to get started
 
 Once you are [registred as an Organizer](/docs/getting-started/), you need an [Organization](/docs/terms/organization/) to work with. If you received an invitation, you can use the invitation code to join an existing Organization. Alternatively, you can create your own organization.
 
-![Creating an organization](/images/spreaview-create-organization.jpg)
+![Creating an organization](/images/spreaview-create-organization.png)
 
 To create an organization, navigate to the 'Organizations' tab in the main menu. Click on the 'Create an Organization' button to create a new Organization.
 Note that this button may appear as a '+' on screens with a smaller resolution.
+
+> When you are not a member of an organization, you can create a new organization directly from the dashboard
 
 Once saved, the new organization will appear in the list of organizations.
 
@@ -20,7 +22,7 @@ Once saved, the new organization will appear in the list of organizations.
 
 If you click on the name of one of your organizations, you will open its details. Here, you can change the name of the organization, but also invite others to join your organization.
 
-![Editting an organization](/images/spreaview-edit-organization.jpg)
+![Editting an organization](/images/spreaview-edit-organization.png)
 
 ## Working Under an Organizational Context
 
@@ -41,6 +43,6 @@ For organizers who are members of multiple organizations, a drop-down menu will 
 3. Select the organization you wish to work under.
 4. The interface will update to reflect your choice, and you can now proceed with your tasks within the context of the selected organization.
 
-![Selecting an organization](/images/spreaview-select-organization.jpg)
+![Selecting an organization](/images/spreaview-select-organization.png)
 
 **Important:** Always ensure you have the correct organization selected before performing any actions, as all tasks, events, and data entries will be tied to the active organization.
