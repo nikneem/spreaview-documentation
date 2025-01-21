@@ -13,6 +13,8 @@ Once you are a member of at least one organization and working in the context of
 
 The first purple menu item is **Conferences**, which is where you can create and manage conferences for your organization. Every conference you create will belong to the organization you are currently working with.
 
+![Creating a conference](/images/spreaview-conferences-create.png)
+
 ## Creating a New Conference
 
 To create a new conference, follow these steps:
@@ -36,6 +38,8 @@ To create a new conference, follow these steps:
 ## The Conferences Dashboard
 
 The Conferences Dashboard provides an overview of all conferences associated with the selected organization. It is divided into two sections:
+
+![Conferences dashboard](/images/spreaview-conferences-dashboard.png)
 
 ### Future Conferences
 
