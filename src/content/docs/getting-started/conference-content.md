@@ -11,8 +11,6 @@ description: Adding a meaning to your conferences
 
 The **Conference Content** section in SpreaView enables organizers to manage the essential elements of a conference, including speakers, tracks, and presentations. This functionality provides flexibility while ensuring data consistency.
 
-![Creating a conference](/images/spreaview-conference-presentations.png)
-
 ## Managing Speakers
 
 Organizers can add and edit speakers for the conference.
@@ -37,13 +35,15 @@ Tracks represent the divisions or categories of sessions within a conference.
 
 ## Managing Presentations
 
+![Creating a conference](/images/spreaview-conference-presentations.png)
+
 Presentations are the core components of a conference, linking speakers and tracks to the conference schedule.
 
 ### Key Points:
 
 - **Adding Presentations**: Organizers can create new presentations by assigning:
   - A title.
-  - A speaker.
+  - One or more speaker(s).
   - A track.
   - Start time and duration.
 - **Editing Presentations**: Details of existing presentations can be modified.
