@@ -41,7 +41,7 @@ Themes are independent entities in SpreaView, meaning they can be created once a
 
 ## License Considerations
 
-While themes can be created and assigned freely, they will only be visible on the review pages if the conference has an appropriate license (Free, Pro, or Premium).
+While themes can be created and assigned freely, they will only be visible on the review pages if the conference has an appropriate license.
 
 ## Benefits of Reusable Themes
 
