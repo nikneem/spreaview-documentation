@@ -15,7 +15,7 @@ Speakers must register in SpreaView to access their dashboard and related inform
 
 ### Inviting Speakers
 
-![Speaker Registration Page](/images/spreaview-speakers-registration)
+![Speaker Registration Page](/images/spreaview-speakers-registration.png)
 
 You can invite speakers to SpreaView through two methods:
 

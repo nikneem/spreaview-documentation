@@ -1,7 +1,7 @@
 ---
 title: "Licensing"
 linkTitle: "Licensing"
-weight: 4
+weight: 5
 categories: [Licensing, Getting Started]
 tags: [docs]
 description: Make sure you pick the appropriate plan ;)
