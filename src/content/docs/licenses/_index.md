@@ -20,15 +20,15 @@ Understanding the differences between license types helps you:
 
 SpreaView provides **three types of licenses**, each tailored to a different type of event:
 
-### 1. **Community**
+### 1. [**Community**](https://docs.spreaview.com/docs/licenses/community/)
 
 Ideal for non-commercial, grassroots events such as user group meetups or free conferences. This license offers essential functionality to collect feedback and support basic reporting needs.
 
-### 2. **Professional**
+### 2. [**Professional**](https://docs.spreaview.com/docs/licenses/professional/)
 
 Designed for medium-sized, paid, or professionally organized events. This license unlocks enhanced features such as external integrations, more advanced analytics, and greater customization options.
 
-### 3. **Premium**
+### 3. [**Premium**](https://docs.spreaview.com/docs/licenses/premium/)
 
 Built for large conferences and organizations that require the full SpreaView feature set, including enterprise-level capabilities, expanded customization, and dedicated support options.
 
