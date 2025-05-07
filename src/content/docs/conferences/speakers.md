@@ -2,7 +2,7 @@
 title: "Speakers"
 linkTitle: "Speakers"
 weight: 4
-categories: [Conferences]
+categories: [Conferences, Speakers]
 tags: [docs]
 description: Speakers are one or more persons delivering a presentation on your conference
 ---

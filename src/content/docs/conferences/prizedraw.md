@@ -2,7 +2,7 @@
 title: "Prize draws"
 linkTitle: "Prize draws"
 weight: 8
-categories: [Conference]
+categories: [Conference, Prize Draw]
 tags: [docs]
 description: Gamification works! Let's encourage attendees to leave feedback
 ---

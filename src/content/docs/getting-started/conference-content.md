@@ -2,7 +2,7 @@
 title: "Conference Content"
 linkTitle: "Content"
 weight: 4
-categories: [Conferences, Content, Getting Started]
+categories: [Conferences]
 tags: [docs]
 description: Adding a meaning to your conferences
 ---

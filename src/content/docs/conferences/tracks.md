@@ -2,7 +2,7 @@
 title: "Tracks"
 linkTitle: "Tracks"
 weight: 5
-categories: [Conferences]
+categories: [Conferences, Tracks, Rooms]
 tags: [docs]
 description: Physical locations where presentations are hosted, also referred to as rooms.
 ---

@@ -2,7 +2,7 @@
 title: "Presentations"
 linkTitle: "Presentations"
 weight: 6
-categories: [Conferences]
+categories: [Conferences, Presentations]
 tags: [docs]
 description: Presentations are delivered by speakers on a given track ;)
 ---
