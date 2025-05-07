@@ -2,7 +2,7 @@
 title: "Sessionize"
 linkTitle: "Sessionize"
 weight: 7
-categories: [Conference, Integration]
+categories: [Conferences, Integrations]
 tags: [docs, sessionize]
 description: Importing data makes life easier
 ---

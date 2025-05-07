@@ -2,8 +2,8 @@
 title: "Sessionize (Technical)"
 linkTitle: "Sessionize (Technical)"
 weight: 2
-categories: [Terms, Sessionize, Integration]
-tags: [terms, docs, sessionize]
+categories: [Sessionize, Integrations]
+tags: [docs, sessionize]
 description: How the Sessionize import works under the hood
 ---
 

@@ -2,7 +2,7 @@
 title: Integrations
 description: Making life a lot easier
 categories: [Integrations]
-tags: [docs]
+tags: [docs, sessionize]
 weight: 99
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Themes
 description: Adjusting the look and feel of public pages
-categories: [Themes]
-tags: [Themes]
+categories: [Theming]
+tags: [Theming]
 weight: 40
 ---
 

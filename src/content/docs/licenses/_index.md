@@ -1,8 +1,8 @@
 ---
 title: Licenses
 description: The right packages for the right conference
-categories: [Licenses]
-tags: [Licenses]
+categories: [Licensing]
+tags: [Licensing]
 weight: 30
 ---
 
