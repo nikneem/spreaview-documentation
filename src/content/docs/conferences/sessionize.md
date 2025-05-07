@@ -1,13 +1,11 @@
 ---
 title: "Sessionize"
 linkTitle: "Sessionize"
-weight: 1
-categories: [Terms, Sessionize, Integration]
-tags: [terms, docs, sessionize]
+weight: 7
+categories: [Conference, Integration]
+tags: [docs, sessionize]
 description: Importing data makes life easier
 ---
-
-### Importing Speakers and Sessions from Sessionize
 
 SpreaView allows you to seamlessly import speakers and sessions directly from Sessionize, a platform used for selecting and planning sessions for your conference. This integration simplifies the process of transferring your carefully planned schedule into SpreaView, ensuring that all sessions and speaker information are accurately reflected in your event.
 

@@ -28,8 +28,8 @@ A single organization can host **multiple conferences**, making it easy to manag
 
 ## What You'll Find in This Section
 
-- [Creating a Conference](#)
-- [Editing Conference Details](#)
+- [Creating a Conference](https://docs.spreaview.com/docs/conferences/create/)
+- [Editing Conference Details](https://docs.spreaview.com/docs/conferences/update/)
 - [Linking Sessionize](#)
 - [Managing Sessions](#)
 - [Generating and Sharing Evaluation Forms](#)
