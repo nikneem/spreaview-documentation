@@ -3,7 +3,7 @@ title: Organizations
 description: Organizing events and conferences under an umbrella
 categories: [Organizers]
 tags: [docs]
-weight: 2
+weight: 10
 ---
 
 In SpreaView, **organizations** are the top-level entities under which all conferences are created and managed. An organization represents your team, company, or community and serves as a container for conferences, users, and settings.

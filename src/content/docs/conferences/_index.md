@@ -3,7 +3,7 @@ title: Conferences
 description: Conferences, events, meetups all come together here
 categories: [Conferences]
 tags: [docs]
-weight: 3
+weight: 20
 ---
 
 At the heart of SpreaView are **conferences**, the events where sessions take place, speakers present, and evaluations are collected. Whether you're organizing a local meetup, a multi-day conference, or a recurring event, SpreaView helps you structure and manage feedback collection effectively.
