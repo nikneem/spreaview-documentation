@@ -110,7 +110,7 @@ Apply a visual theme to your conference’s evaluation forms and speaker pages t
 
 ---
 
-\*\) To make the prize draw work, attendees _must_ leave their name _and_ review at lease the set amount of reviews. So setting up a
+\*\) To make the prize draw work, attendees _must_ leave their name _and_ review at lease the set amount of reviews. So setting up a prize draw with raising the threshold above 0 does not make sense if you don't enable requesting an attendee name
 
 ## Evaluation Options
 
