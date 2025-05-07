@@ -7,67 +7,134 @@ tags: [docs]
 description: Running a conference, now we're talking!
 ---
 
-Once you are a member of at least one organization and working in the context of that organization, new options become available in SpreaView. These options, indicated by purple menu items, are tied to the selected organization. All actions and data in these sections are specific to the organization you are currently working with.
+Before you can collect speaker evaluations in SpreaView, you need to create a **conference**. All conferences are created within the context of an **organization**, which acts as the umbrella for your events.
 
-## Accessing Conferences
+## Prerequisite: Select the Right Organization
 
-The first purple menu item is **Conferences**, which is where you can create and manage conferences for your organization. Every conference you create will belong to the organization you are currently working with.
+Every conference belongs to an organization. If you’re part of multiple organizations, make sure you are working under the correct one.
 
-![Creating a conference](/images/spreaview-conferences-create.png)
+- Use the **cog wheel icon** in the top-right corner of the screen to switch organizations.
+- The current organization is always shown next to the cog wheel for reference.
+
+> You can only create a conference if you are assigned to at least one organization.
+
+---
 
 ## Creating a New Conference
 
-To create a new conference, follow these steps:
+Once you're in the correct organization context, follow these steps to create a new conference:
 
-1. **Navigate to the Conferences Section**
+1. Go to the **Conferences** section in the sidebar.
+2. Click **Create**.
+3. Fill in the required details (see below).
+4. Click **Save** to create your conference.
 
-   - Click on the **Conferences** menu item in the purple section.
+---
 
-2. **Enter Conference Details**
+## Required Information
 
-   - Provide the following information:
-     - **Name**: The title of the conference.
-     - **Date Span**: The start and end dates of the conference.
-     - **Default Session Length**: The typical duration of a session in minutes.
-     - **Default Review Length**: The standard duration in hours for which reviews will remain open after a session.
+When setting up a new conference, the following details are mandatory:
 
-3. **Create the Conference**
-   - Once all the required fields are filled out, click the **Create Conference** button.
-   - The conference will be added to the organization and appear on the Conferences Dashboard.
+### 1. **Event Name**
 
-## The Conferences Dashboard
+The official name of your event or conference (e.g., _Tech Summit 2025_). This name will be visible in dashboards and reports.
 
-The Conferences Dashboard provides an overview of all conferences associated with the selected organization. It is divided into two sections:
+### 2. **Date Range**
 
-![Conferences dashboard](/images/spreaview-conferences-dashboard.png)
+Select the **start and end date** of your conference.
 
-### Future Conferences
+- For a one-day event, simply select the same date twice.
+- The date range determines when sessions can be scheduled.
 
-- Displays conferences that are scheduled to take place in the future.
-- Clicking on a conference name will open its **Details Page**, where you can manage session schedules, attendee information, and more.
+### 3. **Default Session Duration (in minutes)**
 
-### Past Conferences
+This value is used when manually adding sessions later.
 
-- Lists conferences that have already taken place.
-- Each past conference entry includes a summary of review data, such as attendee feedback and overall ratings.
-- Clicking on a conference name will open its **Review Dashboard**, where you can explore detailed review analytics and insights.
+- The default value is **50 minutes**.
+- The end time of a session is automatically calculated by adding this duration to the session's start time.
+- Example: If the default is set to **45 minutes**, a session starting at 10:00 will end at 10:45 by default.
 
-## Conference Details Page
+### 4. **Default Review Window Duration (in hours)**
 
-![Conferences dashboard](/images/spreaview-conferences-details.png)
+This defines how long each session can be reviewed after it starts.
 
-When the conference details are opened, SpreaView displays detailed information about the conference, including:
+- The default value is **4 hours**.
+- Example: If a session starts at 14:00 and the review window is set to 4 hours, attendees can submit evaluations until 18:00.
 
-- **Name and Description**: The title and description of the conference.
-- **Unique Conference Code**: A unique, unchangeable code used to generate unique links.
-- **Date Range**: A field to update the start and end dates of the conference.
-- **Topics**: A field to define a list of topics the conference is about. It is recommended to populate this list with 20 to 30 topics to enable SpreaView to classify presentations and analyze reviews by topics.
-- **Sessionize API ID**: A field for integrating with Sessionize.
-- **Default Session Length and Default Review Length**: Fields to adjust these default values as needed.
-- **Swag Threshold**: A field to define how many reviews a visitor must leave to qualify for swag (this function is experimental).
-- **Theme Dropdown**: Allows for changing the theme of the conference to customize the review page and display the conference logo.
-- **Free Comment Field Toggle**: A field to enable or disable a free comment field on the review page of sessions. This allows attendees to leave optional comments when submitting a review.
+---
 
-## Summary
+# Conference Details Page
 
-The **Conferences** section is your central hub for managing events within your organization. By creating and organizing conferences, you can streamline planning, gather valuable attendee feedback, and analyze past events to improve future ones. Ensure you are always working within the correct organization context to keep your data organized and relevant.
+After creating a conference in SpreaView, you can access its **details page** to manage and fine-tune various settings. This page includes all the basic information you entered during creation, as well as advanced configuration options that help tailor the evaluation experience to your event.
+
+---
+
+## Basic Properties
+
+These are the core fields shown both during creation and on the details page:
+
+- **Event Name**: The title of your conference or event.
+- **Date Range**: Start and end dates of the event. For a one-day event, both dates are the same.
+- **Default Session Duration**: Default session length (in minutes), used when adding sessions manually.
+- **Default Review Window Duration**: Default time window (in minutes) during which a session can be reviewed after its scheduled start time.
+
+---
+
+## Additional Properties
+
+The Conference Details page reveals a number of additional fields that allow more customization and control over your event’s configuration.
+
+### **Event Code**
+
+A unique identifier for your conference, automatically generated by SpreaView. This code is used internally and can also be referenced in integrations. This code is read-only and cannot be changed.
+
+### **Event Description**
+
+An optional text field where you can provide more context or information about your event.
+
+### **Conference Topics**
+
+Define a list of topics relevant to your event (e.g., AI, Web Development, Cloud). These can be assigned to sessions to help categorize them and analyze feedback across different themes.
+
+### **Sessionize API ID**
+
+If you’re using [Sessionize](https://sessionize.com/) to manage your speaker and session data, you can link it here by providing the Sessionize API ID. This enables automated session import and syncing.
+
+### **Swag Requirement Threshold**
+
+Specify the amount of sessions conference attendees must review to qualify for a prize draw \*
+
+### **Theme**
+
+Apply a visual theme to your conference’s evaluation forms and speaker pages to align them with your event branding.
+
+---
+
+\*\) To make the prize draw work, attendees _must_ leave their name _and_ review at lease the set amount of reviews. So setting up a
+
+## Evaluation Options
+
+These toggles control the behavior of the session evaluation forms and speaker feedback pages:
+
+### **Enable Free Comment**
+
+When enabled, a free-text comment field is added to the evaluation form, allowing attendees to leave qualitative feedback in addition to star ratings. When enabled, the free comment field is shown on review pages. The comment field will always be optional and cannot be configured to be mandatory.
+
+### **Request Reviewer Name**
+
+Enable this to optionally ask attendees to provide their name when submitting a review. This can encourage accountability and personalized feedback, but remains optional for the reviewer. Reviewers will be progressively asked for their name once. When ignored, reviewers will not be bothered again, instead they can enter or change their name manually.
+
+### **Show Session Ranking on Speaker Review Page**
+
+This setting controls whether a speaker can see how their session ranks compared to others at the conference. If enabled, the speaker report will display relative performance metrics.
+
+---
+
+## Editing and Saving Changes
+
+To edit any of the conference details:
+
+1. Navigate to your organization’s **Conferences** section.
+2. Select the desired conference.
+3. Update any fields or toggle settings as needed.
+4. Click **Save** to apply your changes.

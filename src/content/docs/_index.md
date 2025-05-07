@@ -4,35 +4,23 @@ linkTitle: Documentation
 menu: { main: { weight: 20 } }
 ---
 
-SpreaView is your go-to platform for enhancing the feedback loop in conferences, meetups, and other gatherings. Our platform is designed to streamline the process of collecting and analyzing reviews for speakers and sessions, providing invaluable insights for both speakers and event organizers.
+## Introduction to SpreaView
 
-## What is SpreaView?
+**SpreaView** is a software platform designed to support conference organizers in gathering structured, high-quality feedback on presentations and speakers. With SpreaView, organizers can easily set up **speaker evaluations** for every session in their event schedule, enabling attendees to provide immediate and meaningful reviews via mobile-friendly forms.
 
-SpreaView facilitates a comprehensive review process for sessions and speakers. Whether you are hosting a large conference, an intimate meetup, or any other type of gathering, SpreaView helps you gather actionable feedback that can drive improvements and success.
+### Why SpreaView?
 
-### For Speakers
+Conference feedback is an essential tool for continuous improvement, and SpreaView makes this process both simple and effective. By collecting feedback in a standardized way, SpreaView helps:
 
-SpreaView is dedicated to providing speakers with detailed insights into how their sessions are received. By collecting feedback on various aspects of their presentations, speakers can:
+- **Organizers** identify the most popular topics and speakers, fine-tune future programs, and maintain high event quality.
+- **Speakers** receive actionable feedback on their content, delivery, and interaction, helping them improve their presentations and better connect with audiences.
 
-- **Understand Audience Perception**: Gain insights into how well the session resonated with attendees.
-- **Identify Strengths and Areas for Improvement**: Discover what worked well and what could be enhanced for future presentations.
-- **Enhance Future Presentations**: Use the feedback to refine content delivery, engagement strategies, and overall effectiveness.
+### Key Features
 
-### For Organizers
-
-For conference and event organizers, SpreaView offers a powerful tool to evaluate and optimize session content and speaker performance. Organizers can:
-
-- **Analyze Session Popularity**: Assess which topics and sessions were most engaging and well-received.
-- **Make Data-Driven Decisions**: Use feedback to shape future event agendas and improve content relevance.
-- **Enhance Overall Event Quality**: Leverage insights to enhance the attendee experience and ensure successful events.
-
-## Key Features
-
-- **Real-Time Feedback Collection**: Gather feedback during and after sessions to get timely insights.
-- **Comprehensive Rating System**: Rate sessions on key aspects such as Speaker, Content, Delivery, and Interaction.
-- **Optional Comments**: Provide qualitative feedback through open text fields for more detailed insights.
-- **Easy Access to Review Pages**: Access review pages via unique session codes, ensuring a seamless feedback process.
-- **Advanced Analytics**: Analyze collected data through detailed reports and dashboards.
+- **QR Code-Based Evaluation Access**: Each session is paired with a unique QR code, allowing attendees to quickly open the evaluation form on their device.
+- **Structured Review Form**: Attendees rate sessions on four criteria—**speaker performance**, **content quality**, **delivery**, and **audience interaction**—on a 1–5 star scale.
+- **Optional Comments Field**: Organizers can choose to enable a free-text field for qualitative feedback.
+- **Real-Time Dashboards**: Both organizers and speakers can access dashboards with up-to-date review data and aggregated scores.
 
 ## Getting Started
 
