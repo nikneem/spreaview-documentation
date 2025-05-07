@@ -3,7 +3,7 @@ title: Themes
 description: Adjusting the look and feel of public pages
 categories: [Themes]
 tags: [Themes]
-weight: 30
+weight: 40
 ---
 
 The **Themes** feature in SpreaView allows you to customize the look and feel of public-facing pages, such as attendee review forms and speaker dashboards. With support for custom colors and a logo, themes help ensure a consistent, branded experience for your event.
